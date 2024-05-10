@@ -5,7 +5,7 @@
 
 # Virtual-X-with-Augmented-Reality-
 
-<h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets in our Solar System.</h4>
+<h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets , human body , mechanical parts and also about the botony. It</h4>
 
 <h3> Problem Statement</h3>
 
@@ -23,10 +23,8 @@ Traditional education can be boring, passive, and one-size-fits-all. This can le
 * ARFoundation
 * ARCore
 * Unity 2020
-* Blender                                
-* Wonderland Engine                                                           
+* Blender          
 * Animation                            
-* ED-TECH
 * MetaVerse
 * 3D Modeling
 
@@ -34,16 +32,15 @@ Traditional education can be boring, passive, and one-size-fits-all. This can le
 Make sure to use Unity 2020 or higher versions for this project to work properly.
 
 <h4>Download Unity Hub</h4>
+
 * Install Unity version 2020.3.7f1 or higher
 
 ![readme](https://github.com/jainvandit11/Virtual-x/assets/166366467/ab86551e-b36d-4971-a5e8-5cab1098d97a)
 
 * Install Android Build Support, OpenJDK, Android SDK & NDK Tools unity hub
 
-![readme1](https://github.com/jainvandit11/Virtual-x/assets/166366467/33bad4ae-3d43-4bb0-a75d-bd786043753f)
+![readme1](https://github.com/jainvandit11/Virtual-x/assets/166366467/33bad4ae-3d43-4bb0-a75d-bd786043753f)\
 
-
-* Clone the repository https://github.com/Priyanshu-CODERX/jet-turbine-simulation.git
 
 * Open the project with your Unity Engine
 
@@ -55,6 +52,9 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 
 
 <h3>💡 Demonstration</h3>
+
+
+0
 
 <h3>What it does</h3>
 
