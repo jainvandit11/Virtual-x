@@ -1,3 +1,8 @@
+![Virt-removebg-preview](https://github.com/jainvandit11/Virtual-x/assets/166366467/bf600ea2-b390-40f2-8486-f39bc43f26d9)
+
+
+
+
 # Virtual-X-with-Augmented-Reality-
 <h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets in our Solar System.</h4>
 
