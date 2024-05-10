@@ -28,28 +28,24 @@ Most villages in India lack schools, much less devices to support quality educat
 Make sure to use Unity 2020 or higher versions for this project to work properly.
 
 <h3>Download Unity Hub</h3>
-Install Unity version 2020.3.7f1 or higher
+* Install Unity version 2020.3.7f1 or higher
 
 ![readme](https://github.com/jainvandit11/Virtual-x/assets/166366467/ab86551e-b36d-4971-a5e8-5cab1098d97a)
 
-Install Android Build Support, OpenJDK, Android SDK & NDK Tools unity hub
+* Install Android Build Support, OpenJDK, Android SDK & NDK Tools unity hub
 
 ![readme1](https://github.com/jainvandit11/Virtual-x/assets/166366467/33bad4ae-3d43-4bb0-a75d-bd786043753f)
 
 
+* Clone the repository https://github.com/Priyanshu-CODERX/jet-turbine-simulation.git
 
+* Open the project with your Unity Engine
 
+* Switch build platform to Android
 
+* Go to project setting's and change the minimum api level to Android 7.0 API Level 23
 
-Clone the repository https://github.com/Priyanshu-CODERX/jet-turbine-simulation.git
-
-Open the project with your Unity Engine
-
-Switch build platform to Android
-
-Go to project setting's and change the minimum api level to Android 7.0 API Level 23
-
-Build the apk
+* Build the apk
 
 <h3>What it does</h3>
 
