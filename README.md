@@ -6,7 +6,14 @@
 # Virtual-X-with-Augmented-Reality-
 <h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets in our Solar System.</h4>
 
-#### Development Tools:
+<h5>About Virtual-X</h5>
+
+Traditional education can be boring, passive, and one-size-fits-all. This can lead to disengagement and poor learning outcomes.
+
+Poor infrastructure also leads to less than ideal quality of education
+
+Most villages in India lack schools, much less devices to support quality education
+⚒️ Development Tools
 * ARFoundation
 * ARCore
 * Unity 2020
@@ -17,6 +24,29 @@
 * MetaVerse
 * 3D Modeling
 
+⚒️ Running Locally
+Make sure to use Unity 2020 or higher versions for this project to work properly.
+
+Download Unity Hub
+Install Unity version 2020.3.7f1 or higher
+
+
+Install Android Build Support, OpenJDK, Android SDK & NDK Tools unity hub
+
+
+
+
+
+
+Clone the repository https://github.com/Priyanshu-CODERX/jet-turbine-simulation.git
+
+Open the project with your Unity Engine
+
+Switch build platform to Android
+
+Go to project setting's and change the minimum api level to Android 7.0 API Level 23
+
+Build the apk
 
 What it does
 
@@ -28,6 +58,6 @@ AR/VR education offers several benefits over traditional education, including:
 * Quality education, anywhere, anytime
 
 
-* How we built it
+How we built it
 
 Our system was based on the augmented reality display, using Unity to build the experience. For the imaging components, we used 3d Modeling software , Blender ,Animation .
