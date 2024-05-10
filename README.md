@@ -13,7 +13,7 @@ Traditional education can be boring, passive, and one-size-fits-all. This can le
 Poor infrastructure also leads to less than ideal quality of education
 
 Most villages in India lack schools, much less devices to support quality education
-⚒️ Development Tools
+<h3>⚒️ Development Tools</h3>
 * ARFoundation
 * ARCore
 * Unity 2020
@@ -24,10 +24,10 @@ Most villages in India lack schools, much less devices to support quality educat
 * MetaVerse
 * 3D Modeling
 
-⚒️ Running Locally
+<h3>⚒️ Running Locally</h3>
 Make sure to use Unity 2020 or higher versions for this project to work properly.
 
-Download Unity Hub
+<h3>Download Unity Hub</h3>
 Install Unity version 2020.3.7f1 or higher
 
 ![readme](https://github.com/jainvandit11/Virtual-x/assets/166366467/ab86551e-b36d-4971-a5e8-5cab1098d97a)
@@ -51,7 +51,7 @@ Go to project setting's and change the minimum api level to Android 7.0 API Leve
 
 Build the apk
 
-What it does
+<h3>What it does</h3>
 
 AR/VR education offers several benefits over traditional education, including:
 
@@ -61,6 +61,6 @@ AR/VR education offers several benefits over traditional education, including:
 * Quality education, anywhere, anytime
 
 
-How we built it
+<h3>How we built it</h3>
 
 Our system was based on the augmented reality display, using Unity to build the experience. For the imaging components, we used 3d Modeling software , Blender ,Animation .
