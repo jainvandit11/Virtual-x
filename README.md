@@ -29,6 +29,7 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 
 Download Unity Hub
 Install Unity version 2020.3.7f1 or higher
+![readme](https://github.com/jainvandit11/Virtual-x/assets/166366467/ab86551e-b36d-4971-a5e8-5cab1098d97a)
 
 
 Install Android Build Support, OpenJDK, Android SDK & NDK Tools unity hub
