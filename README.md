@@ -5,7 +5,7 @@
 
 # Virtual-X-with-Augmented-Reality-
 
-<h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets , human body , mechanical parts and also about the botony. It</h4>
+<h4>Virtual-X  is an Augmented Reality learning app which teaches about Planets , human body , mechanical parts and also about the botony. </h4>
 
 
 OUR APPlICATION APK : https://drive.google.com/file/d/1-rVhLpl-N0-tvMRY8gJm1A3fFBVNIVTx/view?usp=sharing
